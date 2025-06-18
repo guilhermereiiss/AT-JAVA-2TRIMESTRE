@@ -14,6 +14,7 @@ dependencies {
     implementation("org.slf4j:slf4j-simple:2.0.9")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.15.0")
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.15.0")
+    implementation("org.xerial:sqlite-jdbc:3.36.0.3") // Adicionada dependência do SQLite
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.0")
     testImplementation("io.javalin:javalin-testtools:6.6.0")
 }

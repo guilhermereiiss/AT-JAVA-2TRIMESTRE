@@ -2,6 +2,8 @@
 
 Uma API REST simples para gerenciamento de tarefas desenvolvida em Java usando Javalin framework.
 
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+
 ## Tecnologias Utilizadas
 
 - **Java** - Linguagem de programação principal

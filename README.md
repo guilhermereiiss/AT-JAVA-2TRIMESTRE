@@ -1,4 +1,4 @@
-# Task Management API
+# To do API
 
 Uma API REST simples para gerenciamento de tarefas desenvolvida em Java usando Javalin framework.
 
